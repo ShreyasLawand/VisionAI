@@ -77,9 +77,12 @@ Text-to-Speech (pyttsx3 / other TTS)
 
 
 
-##💡 Use Cases
+## 💡 Use Cases
 
 ✔ Accessibility apps for visually impaired
+
 ✔ Smart robotics vision module
+
 ✔ Real-time surveillance assistance
+
 ✔ Interactive detection systems
