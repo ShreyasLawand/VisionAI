@@ -18,21 +18,37 @@ VisionAI is a powerful, real-time computer vision project built with Python that
 
 ## 🧠 Project Structure
 VisionAI/
+
 ├── datasets/
+
 ├── models/
+
 ├── utils/
+
 ├── create_data.py
+
 ├── face_recognize.py
+
 ├── live.py
+
 ├── main.py
+
 ├── movleftright.py
+
 ├── navigate.py
+
 ├── object_recognition.py
+
 ├── text_speech.py
+
 ├── requirements.txt
+
 ├── haarcascade_frontalface_default.xml
+
 ├── yolov5s.pt
+
 ├── yolov8s.pt
+
 
 ## Individual Functionality :-
 
@@ -46,16 +62,22 @@ VisionAI/
 
 
 ## 🛠️ Tech Stack
+
 Python
+
 OpenCV
+
 PyTorch
+
 YOLOv5 / YOLOv8
+
 Haar Cascade Face Detection
+
 Text-to-Speech (pyttsx3 / other TTS)
 
 
 
-## 💡 Use Cases
+##💡 Use Cases
 
 ✔ Accessibility apps for visually impaired
 ✔ Smart robotics vision module
